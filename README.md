@@ -1,2 +1,10 @@
-# simple_shell
-ALX System Engineering project for a Simple shell
+# Simple Shell
+
+## Description
+This is a simple UNIX command line interpreter implemented in C.
+
+## Compilation
+```bash
+gcc -Wall -Werror -Wextra -pedantic -std=gnu89 *.c -o hsh
+
+
